@@ -1,0 +1,58 @@
+.about-content {
+    padding-top: 5%;
+    padding-left: 10%;
+    color: white;
+    padding-top: 7%;
+}
+
+.about-content h1 {
+    font-size: 30px;
+}
+
+.graduated {
+    width: 260px;
+    height: auto;
+    float: right;
+    padding-right: 15%;
+}
+
+.tech-icons {
+    font-size: 3.5em !important;
+    margin: 5px !important;
+    padding: 10px !important;
+    opacity: 0.93 !important;
+    border: 1.7px solid aquamarine !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    display: table !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+}
+
+.tech-icons:hover {
+    transform: scale(1.05) !important;
+    overflow: hidden !important;
+    border: 2.2px solid aquamarine !important;
+}
+
+.Clogo {
+    width: 67px;
+    height: 67px;
+    float: right;
+    margin: 5px !important;
+    padding: 10px !important;
+    border: 1.7px solid aquamarine !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    display: table !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+}
+
+.Clogo:hover {
+    transform: scale(1.05) !important;
+    overflow: hidden !important;
+    border: 2.2px solid aquamarine !important;
+}

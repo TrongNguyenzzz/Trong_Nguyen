@@ -1,0 +1,42 @@
+.home-content {
+    padding-top: 5%;
+    padding-left: 10%;
+    color: white;
+    padding-top: 7%;
+}
+
+#type-writer {
+    font-size: 30px;
+    color: aquamarine
+}
+
+.resize {
+    width: 350px;
+    height: auto;
+    float: right;
+    padding-right: 10%;
+}
+
+.uofa {
+    width: 23px;
+    height: auto;
+}
+
+#connect-home {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    position: relative;
+}
+
+.home-social {
+    display: inline-flex;
+    flex-direction: row;
+    padding-left: 0%;
+}
+
+.home-social li {
+    list-style-type: none;
+    padding: 0 5px;
+    position: relative;
+}
